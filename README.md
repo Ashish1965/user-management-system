@@ -44,7 +44,8 @@ A **User Management System** built using **Flask** (backend) and **Next.js** (fr
    ```bash
    npm install
 3. Run the command:
-   ```npm run dev
+   ```bash
+   npm run dev
 ### **Sql Schema**
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
