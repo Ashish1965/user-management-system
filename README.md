@@ -17,7 +17,7 @@ A **User Management System** built using **Flask** (backend) and **Next.js** (fr
 - **Frontend:** Next.js
 - **Backend:** Flask (Python)
 - **Database:** MySQL
-- **Styling:** TailwindCSS or Bootstrap (optional)
+- **Styling:** TailwindCSS
 - **API Communication:** REST API
 
 ---
